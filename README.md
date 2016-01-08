@@ -1,2 +1,2 @@
 # IPA-scraper
-A Python script that takes English input and gets the IPA transcription (minus inflectional morphology) from Dictionary.com.
+A Python script that takes English input and gets the IPA transcription (minus inflectional morphology) from Dictionary.com. Written by Nic Dolce and me.
